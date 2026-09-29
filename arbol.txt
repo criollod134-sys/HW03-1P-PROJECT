@@ -1,0 +1,12 @@
+C: Universidad_ESPE 0
+C: Proyectos_Personales 0
+C: Juegos 0
+C: Windows 0
+Universidad_ESPE Modelos_Discretos 0
+Modelos_Discretos Automatas.pdf 1
+Proyectos_Personales Nomifi 0
+Nomifi database.sqlite 1
+Juegos Clash_Royale 0
+Clash_Royale estrategia.txt 1
+Windows System32 0
+System32 cmd.exe 1

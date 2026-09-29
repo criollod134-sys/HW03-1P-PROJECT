@@ -1,0 +1,37 @@
+====================================================
+ REPORTE DE EXPLORACION - MAQUINA DE ESTADO FINITO
+====================================================
+
+--- RESULTADOS BUSQUEDA EN PROFUNDIDAD (DFS) ---
+Total de nodos visitados: 13
+Paso 1: /C:
+Paso 2: /C:/Universidad_ESPE
+Paso 3: /C:/Universidad_ESPE/Modelos_Discretos
+Paso 4: /C:/Universidad_ESPE/Modelos_Discretos/Automatas.pdf
+Paso 5: /C:/Proyectos_Personales
+Paso 6: /C:/Proyectos_Personales/Nomifi
+Paso 7: /C:/Proyectos_Personales/Nomifi/database.sqlite
+Paso 8: /C:/Juegos
+Paso 9: /C:/Juegos/Clash_Royale
+Paso 10: /C:/Juegos/Clash_Royale/estrategia.txt
+Paso 11: /C:/Windows
+Paso 12: /C:/Windows/System32
+Paso 13: /C:/Windows/System32/cmd.exe
+
+----------------------------------------------------
+
+--- RESULTADOS BUSQUEDA EN ANCHURA (BFS) ---
+Total de nodos visitados: 13
+Paso 1: C:
+Paso 2: C:/Universidad_ESPE
+Paso 3: C:/Proyectos_Personales
+Paso 4: C:/Juegos
+Paso 5: C:/Windows
+Paso 6: C:/Universidad_ESPE/Modelos_Discretos
+Paso 7: C:/Proyectos_Personales/Nomifi
+Paso 8: C:/Juegos/Clash_Royale
+Paso 9: C:/Windows/System32
+Paso 10: C:/Universidad_ESPE/Modelos_Discretos/Automatas.pdf
+Paso 11: C:/Proyectos_Personales/Nomifi/database.sqlite
+Paso 12: C:/Juegos/Clash_Royale/estrategia.txt
+Paso 13: C:/Windows/System32/cmd.exe
